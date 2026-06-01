@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # E-Commerce Product Catalog
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# Cryoto-Tracker
+>>>>>>> 62e3801242c13dfb5a76b9aa8effb06c2c366e45
