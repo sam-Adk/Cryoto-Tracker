@@ -1,15 +1,36 @@
-<<<<<<< HEAD
+# 🚀 Crypto Tracker
 
-  # E-Commerce Product Catalog
+A modern and responsive cryptocurrency tracking web application that displays real-time coin prices, market trends, and performance data using a clean UI.
 
-  This is a code bundle for E-Commerce Product Catalog. The original project is available at https://www.figma.com/design/rSGFhesMJSOTQJ65wtiITh/E-Commerce-Product-Catalog.
+---
 
-  ## Running the code
+## 📸 Preview
 
-  Run `npm i` to install the dependencies.
+![Crypto Tracker](./screenshots/homepage.png)
 
-  Run `npm run dev` to start the development server.
-  
-=======
-# Cryoto-Tracker
->>>>>>> 62e3801242c13dfb5a76b9aa8effb06c2c366e45
+---
+
+## ✨ Features
+
+- 📊 Real-time cryptocurrency price tracking
+- 🔍 Search for coins easily
+- 📈 Market trends and price changes
+- 💹 Gain/Loss indicators
+- 📱 Fully responsive design (mobile & desktop)
+- ⚡ Fast and lightweight UI
+- 🌙 Clean modern interface
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- REST API (Crypto data source)
+- Fetch API
+
+---
+
+## 📂 Project Structure
+
